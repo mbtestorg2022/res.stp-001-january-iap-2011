@@ -35,7 +35,7 @@ Bonvillian, William B., and Charles Weiss. "Taking Covered Wagons East: A New In
 
 Socolow, Robert H., and Stephen W. Pacala. "A Plan to Keep Carbon in Check." _Scientific American_ 295, no. 3 (2006): 50-57.
 
-Deutch, John M. "What Should the Government Do to Encourage Technical Change in the Energy Sector?" Report No. 120, Joint Program on the Science and Policy of Global Change, MIT, May 2005. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/globalchange/www/MITJPSPGC_Rpt120.pdf))
+Deutch, John M. "What Should the Government Do to Encourage Technical Change in the Energy Sector?" Report No. 120, Joint Program on the Science and Policy of Global Change, MIT, May 2005. ([PDF](http://web.mit.edu/globalchange/www/MITJPSPGC_Rpt120.pdf))
 
 "Statement of Deputy Undersecretary of Defense for Installations and Environment Dr. Dorothy Robyn before the Senate Homeland Security and Governmental Affairs Committee." January 27, 2010.
 

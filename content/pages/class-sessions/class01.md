@@ -37,7 +37,7 @@ Nelson, Richard R. _National Systems of Innovation_. New York, NY: Oxford Univer
 
 Solow, Robert M. [_Growth Theory, An Exposition_](http://nobelprize.org/nobel_prizes/economics/laureates/1987/solow-lecture.html). 5th ed. New York, NY: Oxford University Press, 2000, pp. ix-xxvi. ISBN: 9780195109030.
 
-Romer, Paul. "Endogenous Technological Change." _Journal of Political Economy_ 98, no. 5 (1990): 72-102. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF – 2.8MB](https://www.nber.org/papers/w3210))
+Romer, Paul. "Endogenous Technological Change." _Journal of Political Economy_ 98, no. 5 (1990): 72-102. ([PDF – 2.8MB](https://www.nber.org/papers/w3210))
 
 Jorgenson, Dale. "[U.S. Economic Growth in the Information Age](http://www.issues.org/18.1/jorgenson.html)." _Issues in Science and Technology_ 18, no. 1 (2001): 42.
 

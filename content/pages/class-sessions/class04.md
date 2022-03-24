@@ -29,7 +29,7 @@ Readings
 
 ### Required Reading
 
-Samuelson, Paul A. "Where Ricardo and Mill Rebut and Confirm Arguments of Mainstream Economists Supporting Globalization." _Journal of Economic Perspectives_ 18, no. 3 (2004): 135-137, 144-145. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://pubs.aeaweb.org/doi/pdf/10.1257/0895330042162403))
+Samuelson, Paul A. "Where Ricardo and Mill Rebut and Confirm Arguments of Mainstream Economists Supporting Globalization." _Journal of Economic Perspectives_ 18, no. 3 (2004): 135-137, 144-145. ([PDF](https://pubs.aeaweb.org/doi/pdf/10.1257/0895330042162403))
 
 ### Other Readings for Class Discussions
 
@@ -37,7 +37,7 @@ Hughes, Kent. _Building the Next American Century: The Past and Future of Americ
 
 Berger, Suzanne. _How We Compete: What Companies Around the World Are Doing to Make it in Today's Global Economy_. New York, NY: Crown Business, 2005, pp. 251-277. ISBN: 9780385513593. \[Preview with [Google Books](http://books.google.com/books?id=8CB_qViEJTwC&printsec=frontcover&dq=suzanne+berger+how+we+compete#v=onepage&q=&f=false)\]
 
-Fong, Glenn R. "Follower at the Frontier: International Competition and Japanese Industrial Policy." _International Studies Quarterly_ 42, no. 2 (1998): 339-366. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://my.t-bird.edu/files/personalfiles/134802/ISQ.pdf))
+Fong, Glenn R. "Follower at the Frontier: International Competition and Japanese Industrial Policy." _International Studies Quarterly_ 42, no. 2 (1998): 339-366. ([PDF](http://my.t-bird.edu/files/personalfiles/134802/ISQ.pdf))
 
 Kim, Linsu. _Imitation to Innovation; The Dynamics of Korea's Technological Learning_. Boston, MA: Harvard Business School Press, 1997, pp. 192-213, 234-243.
 
