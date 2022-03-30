@@ -24,7 +24,7 @@ We will also briefly discuss at the end of the class the longstanding problem of
 Lecture Notes
 -------------
 
-The Drivers behind Science and Technology Support ([PDF](/resources/res-stp-001-science-policy-bootcamp-january-iap-2011/class-sessions/class01/MITRES_STP_001IAP11_lec01.pdf))
+The Drivers behind Science and Technology Support ({{% resource_link "90deb79e-985d-97ce-8770-f6cdb92ff2c8" "PDF" %}})
 
 Readings
 --------

@@ -29,7 +29,7 @@ The review will focus on the overall organizational structure and as part of tha
 Lecture Notes
 -------------
 
-Innovation at the Institutional Level: The Organization of Federal Science Support ([PDF – 1.3MB](/resources/res-stp-001-science-policy-bootcamp-january-iap-2011/class-sessions/class02/MITRES_STP_001IAP11_lec02.pdf))
+Innovation at the Institutional Level: The Organization of Federal Science Support ({{% resource_link "b0ea2fbb-2646-f128-6d8e-2ab5c98de237" "PDF – 1.3MB" %}})
 
 Readings
 --------

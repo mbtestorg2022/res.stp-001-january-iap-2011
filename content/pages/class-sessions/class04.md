@@ -22,7 +22,7 @@ The class will close by turning toward the services sector, noting the dominant 
 Lecture Notes
 -------------
 
-The Competitive Challenge in Advanced Production and Services ([PDF](/resources/res-stp-001-science-policy-bootcamp-january-iap-2011/class-sessions/class04/MITRES_STP_001IAP11_lec04.pdf))
+The Competitive Challenge in Advanced Production and Services ({{% resource_link "a7f67093-8599-acbb-77f1-4e9cc64195dd" "PDF" %}})
 
 Readings
 --------
